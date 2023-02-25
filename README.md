@@ -11,8 +11,8 @@
 
 ## Competetive Programming
 
-|Sno:|  Competetive Programming  |    |       |
-|----| ------------- | ------------- |-------------|
+|Sno:|  Competetive Programming  |    |
+|----| ------------- | ------------- |
 |1   | Hacker Rank   | [Link](HackerRank.com)  |       
 |2   | CodeChef| [Link](Sorting_Programs/InsertionSort.c)|          
 |3   | HackerEarth| [Link](Sorting_Programs/SelectionSort.c)  |        
@@ -23,8 +23,8 @@
 
 ## Websites
 
-|Sno:|  Websites |    |       |
-|----| ------------- | ------------- |-------------|
+|Sno:|  Websites |    | 
+|----| ------------- | ------------- |
 |1   | W3Schools  | [Link](Sorting_Programs/bubbleSort.c)  |       
 |2   | GeeksforGeeks| [Link](Sorting_Programs/InsertionSort.c)|          
 |3   | TutorialsPoint| [Link](Sorting_Programs/SelectionSort.c)  |        
@@ -36,8 +36,8 @@
 
 ## YouTube Channel
 
-|Sno:| Channels|    |       |
-|----| ------------- | ------------- |-------------|
+|Sno:| Channels|    |      
+|----| ------------- | ------------- |
 |1   | CodeWithHarry | [Link](Sorting_Programs/bubbleSort.c)  |       
 |2   | FreeCodeCamp| [Link](Sorting_Programs/InsertionSort.c)|          
 |3   | TraversyMedia| [Link](Sorting_Programs/SelectionSort.c)  |        
@@ -49,8 +49,8 @@
 
 ## Applications 
 
-|Sno:| Apps|    |       |
-|----| ------------- | ------------- |-------------|
+|Sno:| Apps|    |    
+|----| ------------- | ------------- |
 |1   | SoloLearn | [Link](Sorting_Programs/bubbleSort.c)  |       
 |2   | Mimo| [Link](Sorting_Programs/InsertionSort.c)|          
 |3   | W3 Schools| [Link](Sorting_Programs/SelectionSort.c)  |        
