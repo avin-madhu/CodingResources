@@ -51,12 +51,15 @@
 
 |Sno:| Apps|    |    
 |----| ------------- | ------------- |
-|1   | SoloLearn | [Link](https://play.google.com/store/apps/details?id=com.sololearn)  |       
-|2   | Mimo| [Link](https://play.google.com/store/apps/details?id=com.getmimo)|          
-|3   | W3 Schools| [Link](https://play.google.com/store/apps/details?id=com.w3schools19359.frostweb)  |        
-|4   | FreeCodeCamp| [Link](Sorting_Programs/Quicksort.c)|         
-|5   | Programming Hub| [Link](https://play.google.com/store/apps/details?id=com.freeit.java) |        
-|6   | DataCamp| [Link](https://play.google.com/store/apps/details?id=com.freeit.java )         | 
+|1   | Dcoder | [Link]()  |       
+|2   | GeeksForGeeks| [Link]()|          
+|3   | C pattern programs| [Link]()  |
+|4   | SoloLearn | [Link](https://play.google.com/store/apps/details?id=com.sololearn)  |       
+|5   | Mimo| [Link](https://play.google.com/store/apps/details?id=com.getmimo)|          
+|6   | W3 Schools| [Link](https://play.google.com/store/apps/details?id=com.w3schools19359.frostweb)  |        
+|7   | FreeCodeCamp| [Link](Sorting_Programs/Quicksort.c)|         
+|8   | Programming Hub| [Link](https://play.google.com/store/apps/details?id=com.freeit.java) |        
+|9   | DataCamp| [Link](https://play.google.com/store/apps/details?id=com.freeit.java )         | 
 
 
 
