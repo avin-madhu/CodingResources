@@ -51,9 +51,9 @@
 
 |Sno:| Apps|    |    
 |----| ------------- | ------------- |
-|1   | Dcoder | [Link]()  |       
-|2   | GeeksForGeeks| [Link]()|          
-|3   | C pattern programs| [Link]()  |
+|1   | Dcoder | [Link](https://play.google.com/store/apps/details?id=com.paprbit.dcoder)  |       
+|2   | GeeksForGeeks| [Link](https://play.google.com/store/apps/details?id=free.programming.programming)|          
+|3   | C pattern programs| [Link](https://play.google.com/store/apps/details?id=com.sitseducators.cpatternprogramsfree)  |
 |4   | SoloLearn | [Link](https://play.google.com/store/apps/details?id=com.sololearn)  |       
 |5   | Mimo| [Link](https://play.google.com/store/apps/details?id=com.getmimo)|          
 |6   | W3 Schools| [Link](https://play.google.com/store/apps/details?id=com.w3schools19359.frostweb)  |        
