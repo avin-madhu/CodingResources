@@ -1,4 +1,4 @@
-# <h1 align="center">Coding Resources</h1>
+# <h1 align="center"> 💻 Coding Resources 💻</h1>
 <p align ="center">This repository provides you with various resources for programming</P>
 
 ### Index
@@ -61,6 +61,6 @@
 |8   | Programming Hub| [Link](https://play.google.com/store/apps/details?id=com.freeit.java) |        
 |9   | DataCamp| [Link](https://play.google.com/store/apps/details?id=com.freeit.java )         | 
 
-
-
+## contribution 
+contributions are accepted and if found useful do star this repository 👐
 
