@@ -13,25 +13,25 @@
 
 |Sno:|  Competetive Programming  |    |
 |----| ------------- | ------------- |
-|1   | Hacker Rank   | [Link](HackerRank.com)  |       
-|2   | CodeChef| [Link](Sorting_Programs/InsertionSort.c)|          
-|3   | HackerEarth| [Link](Sorting_Programs/SelectionSort.c)  |        
-|4   | TopCoder | [Link](Sorting_Programs/Quicksort.c)|         
-|5   | CodeForces  | [Link](Sorting_Programs/MergeSort.c) |        
-|6   | LeetCode | [Link](heapSort.c)         | 
-|7   | PrepInsta| [Link](heapSort.c)         | 
+|1   | Hacker Rank   | [Link](https://www.hackerrank.com/)  |       
+|2   | CodeChef| [Link](https://www.codechef.com/)|          
+|3   | HackerEarth| [Link](https://www.hackerearth.com/)  |        
+|4   | TopCoder | [Link](https://www.topcoder.com/)|         
+|5   | CodeForces  | [Link](https://codeforces.com/) |        
+|6   | LeetCode | [Link](https://leetcode.com/)         | 
+|7   | PrepInsta| [Link](https://prepinsta.com/)         | 
 
 ## Websites
 
 |Sno:|  Websites |    | 
 |----| ------------- | ------------- |
-|1   | W3Schools  | [Link](Sorting_Programs/bubbleSort.c)  |       
-|2   | GeeksforGeeks| [Link](Sorting_Programs/InsertionSort.c)|          
-|3   | TutorialsPoint| [Link](Sorting_Programs/SelectionSort.c)  |        
-|4   | Javapoint | [Link](Sorting_Programs/Quicksort.c)|         
-|5   | Programiz | [Link](Sorting_Programs/MergeSort.c) |        
-|6   | FreeCodeCamp| [Link](heapSort.c)         | 
-|7   | Scaler academy| [Link](heapSort.c)         | 
+|1   | W3Schools  | [Link](https://www.w3schools.com)  |       
+|2   | GeeksforGeeks| [Link](https://www.geeksforgeeks.org)|          
+|3   | TutorialsPoint| [Link](https://www.tutorialspoint.com)  |        
+|4   | Javapoint | [Link](https://www.javatpoint.com)|         
+|5   | Programiz | [Link](https://www.programiz.com) |        
+|6   | FreeCodeCamp| [Link](https://www.freecodecamp.org)         | 
+|7   | Scaler academy| [Link](https://www.scaler.com)         | 
 
 
 ## YouTube Channel
