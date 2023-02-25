@@ -51,12 +51,12 @@
 
 |Sno:| Apps|    |    
 |----| ------------- | ------------- |
-|1   | SoloLearn | [Link](Sorting_Programs/bubbleSort.c)  |       
-|2   | Mimo| [Link](Sorting_Programs/InsertionSort.c)|          
-|3   | W3 Schools| [Link](Sorting_Programs/SelectionSort.c)  |        
+|1   | SoloLearn | [Link](https://play.google.com/store/apps/details?id=com.sololearn)  |       
+|2   | Mimo| [Link](https://play.google.com/store/apps/details?id=com.getmimo)|          
+|3   | W3 Schools| [Link](https://play.google.com/store/apps/details?id=com.w3schools19359.frostweb)  |        
 |4   | FreeCodeCamp| [Link](Sorting_Programs/Quicksort.c)|         
-|5   | Programming Hub| [Link](Sorting_Programs/MergeSort.c) |        
-|6   | DataCamp| [Link](heapSort.c)         | 
+|5   | Programming Hub| [Link](https://play.google.com/store/apps/details?id=com.freeit.java) |        
+|6   | DataCamp| [Link](https://play.google.com/store/apps/details?id=com.freeit.java )         | 
 
 
 
