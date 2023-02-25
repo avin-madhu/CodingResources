@@ -38,14 +38,14 @@
 
 |Sno:| Channels|    |      
 |----| ------------- | ------------- |
-|1   | CodeWithHarry | [Link](Sorting_Programs/bubbleSort.c)  |       
-|2   | FreeCodeCamp| [Link](Sorting_Programs/InsertionSort.c)|          
-|3   | TraversyMedia| [Link](Sorting_Programs/SelectionSort.c)  |        
-|4   | Clever Programmer| [Link](Sorting_Programs/Quicksort.c)|         
-|5   | MyCodeSchool| [Link](Sorting_Programs/MergeSort.c) |        
-|6   | The coding Train| [Link](heapSort.c)         | 
-|7   | Programming With Mosh| [Link](heapSort.c)         | 
-|8   | WebDev Simplified| [Link](heapSort.c)         | 
+|1   | CodeWithHarry | [Link](https://youtube.com/@CodeWithHarry) |       
+|2   | FreeCodeCamp| [Link](https://youtube.com/@freecodecamp)|          
+|3   | TraversyMedia| [Link](https://youtube.com/@TraversyMedia)|     
+|4   | Clever Programmer| [Link](https://youtube.com/@CleverProgrammer)|         
+|5   | MyCodeSchool| [Link](https://youtube.com/@mycodeschool)|        
+|6   | The coding Train| [Link](https://youtube.com/@TheCodingTrain)         | 
+|7   | Programming With Mosh| [Link](https://youtube.com/@programmingwithmosh )         | 
+|8   | WebDev Simplified| [Link](https://youtube.com/@WebDevSimplified)         | 
 
 ## Applications 
 
