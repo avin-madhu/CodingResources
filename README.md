@@ -61,6 +61,6 @@
 |8   | Programming Hub| [Link](https://play.google.com/store/apps/details?id=com.freeit.java) |        
 |9   | DataCamp| [Link](https://play.google.com/store/apps/details?id=com.freeit.java )         | 
 
-## contribution 
+## contributions
 contributions are accepted and if found useful do star this repository 👐
 
