@@ -46,7 +46,7 @@
 |6   | The coding Train| [Link](https://youtube.com/@TheCodingTrain)         | 
 |7   | Programming With Mosh| [Link](https://youtube.com/@programmingwithmosh )         | 
 |8   | WebDev Simplified| [Link](https://youtube.com/@WebDevSimplified)         | 
-|2  | SentDex| [Link](https://youtube.com/@sentdex)         | 
+|9 | SentDex| [Link](https://youtube.com/@sentdex)         | 
 
 
 ## Applications 
